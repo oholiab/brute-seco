@@ -1,0 +1,4 @@
+*.seco
+*.txt
+*.txt*
+node_modules/
