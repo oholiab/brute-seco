@@ -1,7 +1,7 @@
 {
   "name": "brute-seco",
   "version": "1.0.0",
-  "description": "",
+  "description": "Play wordlists against Exodus wallet .seco files to recover password",
   "main": "brute-seco.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
