@@ -1,3 +1,7 @@
+__NB: THIS WAS A CTF HACK FROM A NUMBER OF YEARS AGO. I'm not going to work on
+it, there's a good chance it doesn't function any more and I will not be 
+providing any support - you're on your own!__
+
 # brute-seco
 > Funds are not safu
 
